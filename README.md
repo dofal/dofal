@@ -10,7 +10,6 @@ Hello, I am Jirka. I have 2 years experience with Wordpress web development. At 
 *   ✉️  You can contact me at [ji.dofek@gmail.com](mailto:ji.dofek@gmail.com)
 *   🧠  I'm learning Flask, Django
 *   🤝  I'm open to collaborating on Junior IT projects
-*   
 ### Skills
 <p align="left">
                                 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
