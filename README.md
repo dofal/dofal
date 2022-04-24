@@ -26,4 +26,5 @@ Hello, I am Jirka. I have 2 years experience with Wordpress web development. At 
                           
                       <a href="http://www.instagram.com/dofal123" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
                           
-                      <a href="https://www.linkedin.com/in/jiř%C3%AD-dofek-174573233/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+                      <a href="https://www.linkedin.com/in/jiř%C3%AD-dofek-174573233/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+</p>
